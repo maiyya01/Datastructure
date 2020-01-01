@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d13f867-843d-4e9a-9bb6-91fc7ce9784b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/BoundedTypeParameters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/HanoiProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/SumIterative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/miscellaneous/TypeInference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorting/SelectionSort.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sorting/SelectionSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/SumIterative.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/Factorial.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/GCD.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/HanoiProblem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="50" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="50" />
+              <folding>
+                <element signature="e#100#101#0" expanded="true" />
+                <element signature="e#142#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/Generics.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#105#106#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#172#173#0" expanded="true" />
+                <element signature="e#198#199#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+                <element signature="e#297#298#0" expanded="true" />
+                <element signature="e#525#526#0" expanded="true" />
+                <element signature="e#586#587#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/GenericMethod.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/BoundedTypeParameters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/miscellaneous/TypeInference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#99#100#0" expanded="true" />
+                <element signature="e#128#129#0" expanded="true" />
+                <element signature="e#174#175#0" expanded="true" />
+                <element signature="e#201#202#0" expanded="true" />
+                <element signature="e#649#657#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/maiyyaacademy/learnprogramming/arrays/Main.java" />
+        <option value="$PROJECT_DIR$/src/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/sorting/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/sorting/SelectionSort.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/SumIterative.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/Factorial.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/GCD.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/HanoiProblem.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/Generics.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/GenericMethod.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/BoundedTypeParameters.java" />
+        <option value="$PROJECT_DIR$/src/miscellaneous/TypeInference.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="100" />
+    <option name="y" value="40" />
+    <option name="width" value="2800" />
+    <option name="height" value="1840" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="miscellaneous" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Datastructure" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Datastructure" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sorting" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.TypeInference">
+    <configuration name="BoundedTypeParameters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscellaneous.BoundedTypeParameters" />
+      <module name="Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenericMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscellaneous.GenericMethod" />
+      <module name="Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscellaneous.Generics" />
+      <module name="Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HanoiProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscellaneous.HanoiProblem" />
+      <module name="Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TypeInference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="miscellaneous.TypeInference" />
+      <module name="Datastructure" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="miscellaneous.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.HanoiProblem" />
+      <item itemvalue="Application.Generics" />
+      <item itemvalue="Application.GenericMethod" />
+      <item itemvalue="Application.BoundedTypeParameters" />
+      <item itemvalue="Application.TypeInference" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TypeInference" />
+        <item itemvalue="Application.BoundedTypeParameters" />
+        <item itemvalue="Application.GenericMethod" />
+        <item itemvalue="Application.Generics" />
+        <item itemvalue="Application.HanoiProblem" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d13f867-843d-4e9a-9bb6-91fc7ce9784b" name="Default Changelist" comment="" />
+      <created>1577045030005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577045030005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26185566" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.24199288" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32977462" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/maiyyaacademy/learnprogramming/arrays/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/Factorial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/GCD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/Generics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#198#199#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+            <element signature="e#297#298#0" expanded="true" />
+            <element signature="e#525#526#0" expanded="true" />
+            <element signature="e#586#587#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/SumIterative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/HanoiProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="50" />
+          <folding>
+            <element signature="e#100#101#0" expanded="true" />
+            <element signature="e#142#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="31" column="26" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sorting/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/GenericMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/BoundedTypeParameters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/miscellaneous/TypeInference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="41" column="1" lean-forward="true" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#99#100#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#201#202#0" expanded="true" />
+            <element signature="e#649#657#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
